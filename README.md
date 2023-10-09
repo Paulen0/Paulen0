@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulen0
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on create code
+- 💞️ I’m looking to collaborate on creating code
 - 📫 How to reach me ...
 
 <!---
